@@ -27,7 +27,7 @@ If you don't have n8n set up yet, follow the [Install Guide](./install%20guide.m
  
 | Workflow | Description | Requirements |
 |---|---|---|
-| [WhatsApp LLM Chatbot]([./workflows/WhatsApp_LLM_Chatbot_fixed.json](https://github.com/jamilahmed2/n8n-workflows/blob/main/workflows/WhatsApp_LLM_Chatbot_fixed.json)) | Auto-replies to incoming WhatsApp messages using an AI model (Groq). Full setup guide: [whatsapp-chatbot-workflow-guide.md](https://github.com/jamilahmed2/n8n-workflows/blob/main/workflows/whatsapp-chatbot-workflow-guide.md) | Meta WhatsApp Cloud API access + Groq API key |
+| [WhatsApp LLM Chatbot](https://github.com/jamilahmed2/n8n-workflows/blob/main/workflows/WhatsApp_LLM_Chatbot_fixed.json) | Auto-replies to incoming WhatsApp messages using an AI model (Groq). Full setup guide: [whatsapp-chatbot-workflow-guide.md](https://github.com/jamilahmed2/n8n-workflows/blob/main/workflows/whatsapp-chatbot-workflow-guide.md) | Meta WhatsApp Cloud API access + Groq API key |
  
 *(This table will be updated as new workflows are added.)*
  
